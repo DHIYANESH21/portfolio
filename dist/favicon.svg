@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" fill="#4ade80"/>
-  <rect x="4" y="4" width="24" height="8" fill="#22c55e"/>
-  <rect x="4" y="12" width="24" height="8" fill="#166534"/>
-  <rect x="8" y="20" width="16" height="8" fill="#14532d"/>
-  <text x="16" y="14" font-family="monospace" font-size="10" fill="black" text-anchor="middle" dominant-baseline="middle">J</text>
-</svg>
